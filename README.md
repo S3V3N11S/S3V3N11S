@@ -1,18 +1,15 @@
-# Hello, I'm CHANGEME
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm Jason
+<a href="https://linkedin.com/in/jason-colborne-473b861b5"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Nighttimedata.png)
 
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Welcome to my portfolio! I'm a Computer Technology graduate with a passion for cybersecurity and networking. 
+My journey includes hands-on experience in hardware integration, software configuration, and network administration. 
+With a focus on continuous learning, I thrive on tackling cybersecurity challenges, participating in Capture The Flag competitions, and exploring new tools.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-
+Driven Computer Technology graduate with a strong foundation in cybersecurity, networking, and system administration. Eager to launch a career in cybersecurity to apply and expand my skills in a professional setting. Dedicated to achieving new certifications, undertaking challenging projects, and continuously advancing knowledge in cybersecurity practices. Seeking opportunities to contribute to a security team and make a meaningful impact in the field of cybersecurity.
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
@@ -26,7 +23,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -49,7 +45,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -59,5 +54,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Nessus Passive Vulnerability Scanner 
+- Home Security Lab with attack box
