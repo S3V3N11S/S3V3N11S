@@ -13,12 +13,12 @@ Driven Computer Technology graduate with a strong foundation in cybersecurity, n
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| System Administration and Security Controls          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Vulnerability Scanning and Patching         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Open Source Intelligence                  | SOC Automation Lab|
+| Network Reconnaissance and Enumeration | SOC Automation Lab|
 
 ## Tools
 
