@@ -26,12 +26,16 @@ Driven Computer Technology graduate with a strong foundation in cybersecurity, n
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-    <img src="https://img.shields.io/badge/Burp%20Suite-F63?logo=burpsuite&logoColor=fff" />
+    <img src="https://img.shields.io/badge/Burp%20Suite-F63?style=for-the-badge&logo=burpsuite&logoColor=white" />
+    <img src="https://img.shields.io/badge/NMAP-green?style=for-the-badge&logo=nmap&logoColor=white" />
 </div>
 
-### Endpoint
+###  Security
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/Nessus-green?style=for-the-badge&logo=tenable&logoColor=white" />
+    <img src="https://img.shields.io/badge/Metasploit-green?style=for-the-badge&logo=metasploit&logoColor=white" />
+
    
 </div>
 
@@ -44,11 +48,10 @@ Driven Computer Technology graduate with a strong foundation in cybersecurity, n
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Cyber%20Security%20Certificate-red?style=for-the-badge&logo=google" />
+<img src="https://img.shields.io/badge/Cisco%20Cyber%20Security%20Foundations-blue?style=for-the-badge&logo=cisco" />
+<img src="https://img.shields.io/badge/Cisco%20Cyber%20Security%20Essentials-green?style=for-the-badge&logo=cisco" />
+
 </div>
 
 ## Projects
