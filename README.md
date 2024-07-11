@@ -17,7 +17,7 @@ Driven Computer Technology graduate with a strong foundation in cybersecurity, n
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Vulnerability Scanning and Patching         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
-| Open Source Intelligence                  | SOC Automation Lab|
+| Open Source Intelligence                  | <a href="https://github.com/S3V3N11S/OSINT-Writeups">OSINT Writeups</a> |
 | Network Reconnaissance and Enumeration | SOC Automation Lab|
 
 ## Tools
