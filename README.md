@@ -19,6 +19,7 @@ Driven Computer Technology graduate with a strong foundation in cybersecurity, n
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Open Source Intelligence                  | <a href="https://github.com/S3V3N11S/OSINT-Writeups">OSINT Writeups</a> |
 | Network Reconnaissance and Enumeration | SOC Automation Lab|
+| OWASP Top 10                  | <a href="https://github.com/S3V3N11S/OWASP-Top-10/blob/main/owasp10Writeup.md">OWASP Top 10 Box</a> |
 
 ## Tools
 
