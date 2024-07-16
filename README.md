@@ -9,7 +9,6 @@ With a focus on continuous learning, I thrive on tackling cybersecurity challeng
 ## Objective
 Driven Computer Technology graduate with a strong foundation in cybersecurity, networking, and system administration. Eager to launch a career in cybersecurity to apply and expand my skills in a professional setting. Dedicated to achieving new certifications, undertaking challenging projects, and continuously advancing knowledge in cybersecurity practices. Seeking opportunities to contribute to a security team and make a meaningful impact in the field of cybersecurity.
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
