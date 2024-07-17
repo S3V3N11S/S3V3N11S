@@ -28,6 +28,8 @@ Driven Computer Technology graduate with a strong foundation in cybersecurity, n
     <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
     <img src="https://img.shields.io/badge/Burp%20Suite-F63?style=for-the-badge&logo=burpsuite&logoColor=white" />
     <img src="https://img.shields.io/badge/NMAP-green?style=for-the-badge&logo=nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/Snort-grey?style=for-the-badge&logo=snort&logoColor=red" />
+
 </div>
 
 ###  Security
