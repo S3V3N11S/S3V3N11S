@@ -13,8 +13,8 @@ Driven Computer Technology graduate with a strong foundation in cybersecurity, n
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | System Administration and Security Controls          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com"> Vuln Scanning & Patching Collection</a>|
-| Vulnerability Scanning and Patching         | <a href="https://github.com/S3V3N11S/Vulnerability-Scanning-and-Patching">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Under Construction </a>|
+| Vulnerability Scanning and Patching         | <a href="https://github.com/S3V3N11S/Vulnerability-Scanning-and-Patching">Vuln Scanning and Patching Collection</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Open Source Intelligence                  | <a href="https://github.com/S3V3N11S/OSINT-Writeups">OSINT Writeups</a> |
 | Network Reconnaissance and Enumeration | SOC Automation Lab|
