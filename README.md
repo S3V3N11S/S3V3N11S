@@ -32,9 +32,10 @@ Driven Computer Technology graduate with a strong foundation in cybersecurity, n
 
 ###  Security
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />        
     <img src="https://img.shields.io/badge/Nessus-green?style=for-the-badge&logo=tenable&logoColor=white" />
     <img src="https://img.shields.io/badge/Metasploit-green?style=for-the-badge&logo=metasploit&logoColor=white" />
+    <img src="https://img.shields.io/badge/YARA-blue?style=for-the-badge&logo=yara&logoColor=white" />
 
    
 </div>
