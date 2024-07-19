@@ -18,6 +18,8 @@ Driven Computer Technology graduate with a strong foundation in cybersecurity, n
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Open Source Intelligence                  | <a href="https://github.com/S3V3N11S/OSINT-Writeups">OSINT Writeups</a> |
 | Network Reconnaissance and Enumeration | SOC Automation Lab|
+| SIEM                  | <a href="">In Progress</a> |
+| Endpoint Security                  | <a href="">In Progress</a> |
 | OWASP Top 10                  | <a href="https://github.com/S3V3N11S/OWASP-Top-10/blob/main/owasp10Writeup.md">OWASP Top 10 Box</a> |
 
 ## Tools
@@ -38,6 +40,7 @@ Driven Computer Technology graduate with a strong foundation in cybersecurity, n
     <img src="https://img.shields.io/badge/Nessus-green?style=for-the-badge&logo=tenable&logoColor=white" />
     <img src="https://img.shields.io/badge/Metasploit-green?style=for-the-badge&logo=metasploit&logoColor=white" />
     <img src="https://img.shields.io/badge/YARA-blue?style=for-the-badge&logo=yara&logoColor=white" />
+    <img src="https://img.shields.io/badge/Wazuh-Security%20Monitoring-orange?style=for-the-badge&logo=wazuh&logoColor=white" />
 
    
 </div>
