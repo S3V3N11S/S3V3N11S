@@ -19,7 +19,7 @@ Driven Computer Technology graduate with a strong foundation in cybersecurity, n
 | Open Source Intelligence                  | <a href="https://github.com/S3V3N11S/OSINT-Writeups">OSINT Writeups</a> |
 | Network Reconnaissance and Enumeration | SOC Automation Lab|
 | SIEM                  | <a href="">In Progress</a> |
-| Endpoint Security                  | <a href="">In Progress</a> |
+| Endpoint Security (EDR)                  | <a href="">In Progress</a> |
 | OWASP Top 10                  | <a href="https://github.com/S3V3N11S/OWASP-Top-10/blob/main/owasp10Writeup.md">OWASP Top 10 Box</a> |
 
 ## Tools
