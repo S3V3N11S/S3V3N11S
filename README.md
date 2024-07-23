@@ -63,6 +63,7 @@ Driven Computer Technology graduate with a strong foundation in cybersecurity, n
 ## Projects
 - Nessus Passive Vulnerability Scanner 
 - Home Security Lab with attack box
+- Canadian OSINT <a href="https://github.com/S3V3N11S/Canadian-OSINT-">Toolbox</a> 
 
 ## Other skills and experience
 - Linux, Windows, Hardware Repairs, Network Enumeration, Logical Network Maps, Threat Detection, Cyber Forensics, Report Writing, OSINT Investigations, Installation of various hardware and devices, Various Virtual Machine Configurations, Cyber Security Tool installation, Network sensors, Custom tool deployment, incident response, artifact cloning, packet analysis
