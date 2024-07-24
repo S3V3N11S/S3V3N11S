@@ -7,7 +7,7 @@ With a focus on continuous learning, I thrive on tackling cybersecurity challeng
 
 ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Nighttimedata.png)
 ## Objective
-Driven Computer Technology graduate with a strong foundation in cybersecurity, networking, and system administration. Eager to launch a career in cybersecurity to apply and expand my skills in a professional setting. Dedicated to achieving new certifications, undertaking challenging projects, and continuously advancing knowledge in cybersecurity practices. Seeking opportunities to contribute to a security team and make a meaningful impact in the field of cybersecurity.
+Driven Computer Technology graduate with a strong foundation in cybersecurity, networking, and system administration. Eager to launch a career in cybersecurity to apply and expand my skills in a professional setting. Dedicated to achieving new certifications, undertaking challenging projects, and continuously advancing knowledge in cybersecurity practices. Seeking opportunities to contribute to a SOC team and make a meaningful impact in the field of cybersecurity.
 ## Skills
 
 | Skill                                         | Associated Project         |
@@ -61,9 +61,11 @@ Driven Computer Technology graduate with a strong foundation in cybersecurity, n
 </div>
 
 ## Projects
+- <a href="https://github.com/S3V3N11S/Capture-The-Flags">CTF Writeups</a>
+- Canadian OSINT <a href="https://github.com/S3V3N11S/Canadian-OSINT-">Toolbox</a> 
 - Nessus Passive Vulnerability Scanner 
 - Home Security Lab with attack box
-- Canadian OSINT <a href="https://github.com/S3V3N11S/Canadian-OSINT-">Toolbox</a> 
+
 
 ## Other skills and experience
 - Linux, Windows, Hardware Repairs, Network Enumeration, Logical Network Maps, Threat Detection, Cyber Forensics, Report Writing, OSINT Investigations, Installation of various hardware and devices, Various Virtual Machine Configurations, Cyber Security Tool installation, Network sensors, Custom tool deployment, incident response, artifact cloning, packet analysis
