@@ -12,12 +12,12 @@ Driven Computer Technology graduate with a strong foundation in cybersecurity, n
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| System Administration and Security Controls          | <a href="https://google.com">Detection Lab</a>|
+| System Administration and Security Controls          | <a href="https://google.com">In Progress</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/S3V3N11S/Network-Security-and-Analysis-Collection/blob/main/Snort%20THM.md">Snort Lab</a>|
 | Vulnerability Scanning and Patching         | <a href="https://github.com/S3V3N11S/Vulnerability-Scanning-and-Patching">Vuln Scanning and Patching Collection</a>|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Incident Response Planning and Execution      | In Progress|
 | Open Source Intelligence                  | <a href="https://github.com/S3V3N11S/OSINT-Writeups">OSINT Writeups</a> |
-| Network Reconnaissance and Enumeration | SOC Automation Lab|
+| Network Reconnaissance and Enumeration | In Progress|
 | SIEM                  | <a href="">In Progress</a> |
 | Endpoint Security (EDR)                  | <a href="https://github.com/S3V3N11S/Endpoint-Security-Collection">Endpoint Security Collection</a> |
 | OWASP Top 10                  | <a href="https://github.com/S3V3N11S/OWASP-Top-10/blob/main/owasp10Writeup.md">OWASP Top 10 Box</a> |
@@ -45,7 +45,7 @@ Driven Computer Technology graduate with a strong foundation in cybersecurity, n
    
 </div>
 
-### Administration
+### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
