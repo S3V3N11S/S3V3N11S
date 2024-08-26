@@ -12,7 +12,7 @@ Driven Computer Technology graduate with a strong foundation in cybersecurity, n
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| System Administration and Security Controls          | <a href="https://google.com">In Progress</a>|
+| System Administration and Security Controls          | <a href="https://github.com/S3V3N11S/ComputerLab">Work Computer Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/S3V3N11S/Network-Security-and-Analysis-Collection/blob/main/Snort%20THM.md">Snort Lab</a>|
 | Vulnerability Scanning and Patching         | <a href="https://github.com/S3V3N11S/Vulnerability-Scanning-and-Patching">Vuln Scanning and Patching Collection</a>|
 | Incident Response Planning and Execution      | In Progress|
