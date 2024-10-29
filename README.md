@@ -1,6 +1,8 @@
 # Hello, I'm Jason
 <a href="https://linkedin.com/in/jason-colborne-473b861b5"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+### Projects currently at a standstill white I work towards my Certified Defensive Security Analyst certification 
+
 Welcome to my portfolio! I'm a Computer Technology graduate with a passion for cybersecurity and networking. 
 My journey includes hands-on experience in hardware integration, software configuration, and network administration. 
 With a focus on continuous learning, I thrive on tackling cybersecurity challenges, participating in Capture The Flag competitions, and exploring new tools.
