@@ -1,7 +1,7 @@
 # Hello, I'm Jason
 <a href="https://linkedin.com/in/jason-colborne-473b861b5"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-### Projects currently at a standstill white I work towards my Certified Defensive Security Analyst certification 
+### Projects currently at a standstill white I work towards my Certified Defensive Security Analyst certification, will be uploading SOC and Threat Hunt related writeups <a href="https://github.com/S3V3N11S/Threat-Intelligence-and-Hunts/tree/main">here</a> as I go...
 
 Welcome to my portfolio! I'm a Computer Technology graduate with a passion for cybersecurity and networking. 
 My journey includes hands-on experience in hardware integration, software configuration, and network administration. 
