@@ -71,5 +71,9 @@ Driven Computer Technology graduate with a strong foundation in cybersecurity, n
 - Home Security Lab with attack box
 
 
-## Other skills and experience
-- Linux, Windows, Hardware Repairs, Network Enumeration, Logical Network Maps, Threat Detection, Cyber Forensics, Report Writing, OSINT Investigations, Installation of various hardware and devices, Various Virtual Machine Configurations, Cyber Security Tool installation, Network sensors, Custom tool deployment, incident response, artifact cloning, packet analysis
+## Other Skills and Tools
+**Skills**: Vulnerability Scanning, Incident Response (IR), Threat Hunting, Network Security (Firewalls, VPNs, IDS/IPS), Endpoint Detection and Response (EDR), SIEM, Threat Intelligence (CTI), OSINT, Phishing Detection and Prevention, Digital Forensics.
+
+**Systems**: Azure AD, Microsoft 365, Active Directory, G-Suite, Linux Systems, MAC, Datto, Veeam, Splunk, Exchange, AnyConnect, GlobalProtect, pfSense, VMware, Intune, Microsoft Defender for Endpoint.
+
+**Tools**: NMAP, Wireshark, CrowdStrike Falcon, Stellar SIEM, Splunk, ELK Stack, Snort, FTKImager, Autopsy, BitDefender Gravity Zone, Hornet, AnyRun, Virus Total, Cisco Talos, Shoden, Nessus. 
