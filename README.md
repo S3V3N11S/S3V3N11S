@@ -1,15 +1,14 @@
 # Hello, I'm Jason
 <a href="https://linkedin.com/in/jason-colborne-473b861b5"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-### Projects currently at a standstill white I work towards my Certified Defensive Security Analyst certification, will be uploading SOC and Threat Hunt related writeups <a href="https://github.com/S3V3N11S/Threat-Intelligence-and-Hunts/tree/main">here</a> as I go...
+#### *Projects currently at a standstill white I work towards my Certified Defensive Security Analyst certification, will be uploading SOC and Threat Hunt related writeups <a href="https://github.com/S3V3N11S/Threat-Intelligence-and-Hunts/tree/main">here</a> as I go...*
 
-Welcome to my portfolio! I'm a Computer Technology graduate with a passion for cybersecurity and networking. 
-My journey includes hands-on experience in hardware integration, software configuration, and network administration. 
+Welcome to my portfolio! I'm a Computer Technology graduate and a current SOC analyst. 
+My journey includes hands-on experience in incident response, threat hunting, and alert triaging. 
 With a focus on continuous learning, I thrive on tackling cybersecurity challenges, participating in Capture The Flag competitions, and exploring new tools.
 
 ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Nighttimedata.png)
-## Objective
-Driven Computer Technology graduate with a strong foundation in cybersecurity, networking, and system administration. Eager to launch a career in cybersecurity to apply and expand my skills in a professional setting. Dedicated to achieving new certifications, undertaking challenging projects, and continuously advancing knowledge in cybersecurity practices. Seeking opportunities to contribute to a SOC team and make a meaningful impact in the field of cybersecurity.
+
 ## Skills
 
 | Skill                                         | Associated Project         |
