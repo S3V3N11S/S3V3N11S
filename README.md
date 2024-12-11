@@ -14,7 +14,7 @@ Driven Computer Technology graduate with a strong foundation in cybersecurity, n
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Threat Hunting          | <a href="https://github.com/S3V3N11S/">Current Project</a>|
+| Threat Hunting          | <a href="https://github.com/S3V3N11S/Threat-Intelligence-and-Hunts/tree/main">Threat Hunts, CTI, and POCs</a>|
 | Red Team & Blue Team Sim Homelab          | <a href="https://github.com/S3V3N11S/">Current Project</a>|
 | System Administration and Security Controls          | <a href="https://github.com/S3V3N11S/ComputerLab">Work Computer Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/S3V3N11S/Network-Security-and-Analysis-Collection/blob/main/Snort%20THM.md">Snort Lab</a>|
