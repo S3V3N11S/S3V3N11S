@@ -75,4 +75,4 @@ With a focus on continuous learning, I thrive on tackling cybersecurity challeng
 
 **Systems**: Azure AD, Microsoft 365, Active Directory, G-Suite, Linux Systems, MAC, Datto, Veeam, Splunk, Exchange, AnyConnect, GlobalProtect, pfSense, VMware, Intune, Microsoft Defender for Endpoint.
 
-**Tools**: NMAP, Wireshark, CrowdStrike Falcon, Stellar SIEM, Splunk, ELK Stack, Snort, FTKImager, Autopsy, BitDefender Gravity Zone, Hornet, Virtulization, Cisco Talos, Shoden, Nessus. 
+**Tools**: NMAP, Wireshark, CrowdStrike Falcon, Stellar SIEM, Splunk, ELK Stack, Snort, FTKImager, Autopsy, BitDefender Gravity Zone, Hornet, Virtualization, Cisco Talos, Shoden, Nessus. 
