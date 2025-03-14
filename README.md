@@ -13,7 +13,7 @@ With a focus on continuous learning, I thrive on tackling cybersecurity challeng
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Threat Hunting          | <a href="https://github.com/S3V3N11S/Threat-Intelligence-and-Hunts/tree/main">Threat Hunts, CTI, and POCs</a>|
-| Red Team & Blue Team Sim Homelab          | <a href="https://github.com/S3V3N11S/">Current Project</a>|
+| C2 Infrastructure and Deployment Labs          | <a href="https://github.com/S3V3N11S/C2-Labs/blob/main/SliverC2-Initial_Test.md">C2</a>|
 | System Administration and Security Controls          | <a href="https://github.com/S3V3N11S/ComputerLab">Work Computer Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/S3V3N11S/Network-Security-and-Analysis-Collection/blob/main/Snort%20THM.md">Snort Lab</a>|
 | Vulnerability Scanning and Patching         | <a href="https://github.com/S3V3N11S/Vulnerability-Scanning-and-Patching">Vuln Scanning and Patching Collection</a>|
