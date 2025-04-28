@@ -2,7 +2,7 @@
 <a href="https://linkedin.com/in/jason-colborne-473b861b5"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-Welcome to my portfolio! I'm a Computer Technology graduate and a current SOC analyst. 
+Welcome to my portfolio! I'm a Computer Technology graduate and a current SOC incident responder. 
 My journey includes hands-on experience in incident response, threat hunting, and alert triaging. 
 With a focus on continuous learning, I thrive on tackling cybersecurity challenges, participating in Capture The Flag competitions, and exploring new tools.
 
