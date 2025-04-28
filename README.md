@@ -3,7 +3,7 @@
 
 
 Welcome to my portfolio! I'm a Computer Technology graduate and a current SOC incident responder. 
-My journey includes hands-on experience in incident response, threat hunting, and alert triaging. 
+My journey includes hands-on experience in incident response, proactive threat hunting, and detection engineering. 
 With a focus on continuous learning, I thrive on tackling cybersecurity challenges, participating in Capture The Flag competitions, and exploring new tools.
 
 ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Nighttimedata.png)
